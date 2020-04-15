@@ -1,0 +1,1 @@
+﻿Get-ChildItem c:\data -Recurse | unblock-file
